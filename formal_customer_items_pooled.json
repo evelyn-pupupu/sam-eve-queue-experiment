@@ -1,0 +1,758 @@
+[
+    {
+        "Cream": 4,
+        "Milk": 2,
+        "Bread": 4,
+        "Fish": 1,
+        "Cheese": 5
+    },
+    {
+        "Bread": 1,
+        "Meat": 4,
+        "Cream": 3,
+        "Milk": 4,
+        "Fish": 3
+    },
+    {
+        "Bread": 1,
+        "Cereal": 5,
+        "Coke": 1,
+        "Cream": 2,
+        "Fish": 4
+    },
+    {
+        "Meat": 2,
+        "Cream": 5,
+        "Milk": 3,
+        "Bread": 2,
+        "Cereal": 5
+    },
+    {
+        "Fish": 3,
+        "Cream": 1,
+        "Coke": 2,
+        "Meat": 3,
+        "Milk": 1
+    },
+    {
+        "Cereal": 3,
+        "Meat": 5,
+        "Cheese": 2,
+        "Cream": 4,
+        "Coke": 2
+    },
+    {
+        "Cheese": 4,
+        "Fish": 5,
+        "Meat": 2,
+        "Milk": 4,
+        "Cereal": 5
+    },
+    {
+        "Bread": 3,
+        "Meat": 5,
+        "Milk": 4,
+        "Cheese": 5,
+        "Coke": 3
+    },
+    {
+        "Cheese": 5,
+        "Meat": 1,
+        "Coke": 4,
+        "Cream": 5,
+        "Bread": 2
+    },
+    {
+        "Milk": 1,
+        "Coke": 5,
+        "Cream": 2,
+        "Cheese": 3,
+        "Bread": 1
+    },
+    {
+        "Cheese": 1,
+        "Coke": 2,
+        "Milk": 5,
+        "Cream": 2,
+        "Cereal": 3
+    },
+    {
+        "Milk": 2,
+        "Bread": 3,
+        "Cheese": 5,
+        "Cereal": 1,
+        "Coke": 4
+    },
+    {
+        "Fish": 3,
+        "Bread": 5,
+        "Cereal": 1,
+        "Coke": 3,
+        "Cheese": 1
+    },
+    {
+        "Cream": 5,
+        "Fish": 3,
+        "Cereal": 1,
+        "Cheese": 3,
+        "Bread": 4
+    },
+    {
+        "Meat": 2,
+        "Coke": 4,
+        "Cereal": 1,
+        "Fish": 5,
+        "Milk": 1
+    },
+    {
+        "Fish": 1,
+        "Cereal": 5,
+        "Cream": 4,
+        "Cheese": 5,
+        "Coke": 4
+    },
+    {
+        "Cereal": 5,
+        "Meat": 1,
+        "Fish": 2,
+        "Milk": 5,
+        "Cheese": 2
+    },
+    {
+        "Cheese": 1,
+        "Fish": 3,
+        "Cream": 1,
+        "Bread": 2,
+        "Coke": 3
+    },
+    {
+        "Coke": 5,
+        "Fish": 3,
+        "Bread": 2,
+        "Cheese": 5,
+        "Meat": 4
+    },
+    {
+        "Fish": 1,
+        "Milk": 3,
+        "Coke": 2,
+        "Meat": 5,
+        "Cheese": 3
+    },
+    {
+        "Milk": 4,
+        "Bread": 2,
+        "Meat": 1,
+        "Coke": 2,
+        "Cereal": 5
+    },
+    {
+        "Meat": 4,
+        "Fish": 1,
+        "Cream": 4,
+        "Coke": 5,
+        "Cereal": 4
+    },
+    {
+        "Milk": 2,
+        "Cheese": 3,
+        "Coke": 4,
+        "Cream": 3,
+        "Meat": 2
+    },
+    {
+        "Cheese": 4,
+        "Cereal": 2,
+        "Bread": 4,
+        "Cream": 2,
+        "Meat": 1
+    },
+    {
+        "Cereal": 1,
+        "Cheese": 5,
+        "Meat": 2,
+        "Milk": 5,
+        "Coke": 3
+    },
+    {
+        "Milk": 5,
+        "Coke": 2,
+        "Fish": 3,
+        "Bread": 4,
+        "Cheese": 1
+    },
+    {
+        "Milk": 2,
+        "Cream": 5,
+        "Cheese": 2,
+        "Coke": 4,
+        "Meat": 3
+    },
+    {
+        "Milk": 3,
+        "Bread": 2,
+        "Cream": 4,
+        "Cereal": 2,
+        "Coke": 5
+    },
+    {
+        "Cereal": 4,
+        "Milk": 1,
+        "Cheese": 5,
+        "Cream": 2,
+        "Bread": 3
+    },
+    {
+        "Cereal": 3,
+        "Fish": 4,
+        "Cream": 1,
+        "Meat": 2,
+        "Milk": 4
+    },
+    {
+        "Bread": 1,
+        "Coke": 2,
+        "Cream": 5,
+        "Fish": 1,
+        "Meat": 4
+    },
+    {
+        "Milk": 3,
+        "Cheese": 2,
+        "Cream": 3,
+        "Bread": 2,
+        "Cereal": 4
+    },
+    {
+        "Cereal": 5,
+        "Fish": 4,
+        "Cheese": 3,
+        "Bread": 1,
+        "Milk": 4
+    },
+    {
+        "Cereal": 2,
+        "Coke": 3,
+        "Cheese": 1,
+        "Meat": 4,
+        "Milk": 2
+    },
+    {
+        "Coke": 4,
+        "Milk": 1,
+        "Cream": 3,
+        "Cheese": 1,
+        "Cereal": 2
+    },
+    {
+        "Fish": 3,
+        "Bread": 1,
+        "Milk": 2,
+        "Cream": 1,
+        "Meat": 3
+    },
+    {
+        "Bread": 3,
+        "Fish": 1,
+        "Milk": 3,
+        "Meat": 1,
+        "Cream": 4
+    },
+    {
+        "Cheese": 5,
+        "Milk": 1,
+        "Meat": 5,
+        "Bread": 2,
+        "Cream": 5
+    },
+    {
+        "Cheese": 4,
+        "Milk": 1,
+        "Coke": 2,
+        "Cream": 4,
+        "Meat": 5
+    },
+    {
+        "Fish": 5,
+        "Coke": 3,
+        "Cream": 2,
+        "Meat": 4,
+        "Milk": 2
+    },
+    {
+        "Coke": 4,
+        "Fish": 2,
+        "Bread": 1,
+        "Cream": 3,
+        "Cereal": 2
+    },
+    {
+        "Milk": 2,
+        "Fish": 4,
+        "Cream": 3,
+        "Meat": 4,
+        "Cheese": 1
+    },
+    {
+        "Cheese": 5,
+        "Milk": 2,
+        "Coke": 1,
+        "Cereal": 2,
+        "Meat": 5
+    },
+    {
+        "Milk": 1,
+        "Fish": 5,
+        "Coke": 1,
+        "Cereal": 5,
+        "Bread": 1
+    },
+    {
+        "Cream": 3,
+        "Milk": 5,
+        "Meat": 3,
+        "Coke": 2,
+        "Cereal": 1
+    },
+    {
+        "Fish": 4,
+        "Bread": 1,
+        "Milk": 5,
+        "Cereal": 3,
+        "Meat": 2
+    },
+    {
+        "Bread": 1,
+        "Cereal": 4,
+        "Cheese": 1,
+        "Milk": 3,
+        "Meat": 2
+    },
+    {
+        "Meat": 4,
+        "Cereal": 2,
+        "Cream": 5,
+        "Milk": 1,
+        "Bread": 3
+    },
+    {
+        "Meat": 3,
+        "Cheese": 4,
+        "Milk": 5,
+        "Fish": 3,
+        "Coke": 2
+    },
+    {
+        "Coke": 1,
+        "Bread": 5,
+        "Cereal": 3,
+        "Meat": 4,
+        "Cream": 2
+    },
+    {
+        "Bread": 5,
+        "Cream": 4,
+        "Fish": 2,
+        "Coke": 1,
+        "Meat": 4
+    },
+    {
+        "Fish": 3,
+        "Cream": 2,
+        "Bread": 3,
+        "Cereal": 5,
+        "Meat": 4
+    },
+    {
+        "Meat": 1,
+        "Cheese": 3,
+        "Milk": 2,
+        "Bread": 4,
+        "Cereal": 5
+    },
+    {
+        "Cheese": 3,
+        "Fish": 1,
+        "Cereal": 4,
+        "Cream": 3,
+        "Milk": 2
+    },
+    {
+        "Cream": 4,
+        "Milk": 2,
+        "Bread": 4,
+        "Fish": 1,
+        "Cheese": 5
+    },
+    {
+        "Bread": 1,
+        "Meat": 4,
+        "Cream": 3,
+        "Milk": 4,
+        "Fish": 3
+    },
+    {
+        "Bread": 1,
+        "Cereal": 5,
+        "Coke": 1,
+        "Cream": 2,
+        "Fish": 4
+    },
+    {
+        "Meat": 2,
+        "Cream": 5,
+        "Milk": 3,
+        "Bread": 2,
+        "Cereal": 5
+    },
+    {
+        "Fish": 3,
+        "Cream": 1,
+        "Coke": 2,
+        "Meat": 3,
+        "Milk": 1
+    },
+    {
+        "Cereal": 3,
+        "Meat": 5,
+        "Cheese": 2,
+        "Cream": 4,
+        "Coke": 2
+    },
+    {
+        "Cheese": 4,
+        "Fish": 5,
+        "Meat": 2,
+        "Milk": 4,
+        "Cereal": 5
+    },
+    {
+        "Bread": 3,
+        "Meat": 5,
+        "Milk": 4,
+        "Cheese": 5,
+        "Coke": 3
+    },
+    {
+        "Cheese": 5,
+        "Meat": 1,
+        "Coke": 4,
+        "Cream": 5,
+        "Bread": 2
+    },
+    {
+        "Milk": 1,
+        "Coke": 5,
+        "Cream": 2,
+        "Cheese": 3,
+        "Bread": 1
+    },
+    {
+        "Cheese": 1,
+        "Coke": 2,
+        "Milk": 5,
+        "Cream": 2,
+        "Cereal": 3
+    },
+    {
+        "Milk": 2,
+        "Bread": 3,
+        "Cheese": 5,
+        "Cereal": 1,
+        "Coke": 4
+    },
+    {
+        "Fish": 3,
+        "Bread": 5,
+        "Cereal": 1,
+        "Coke": 3,
+        "Cheese": 1
+    },
+    {
+        "Cream": 5,
+        "Fish": 3,
+        "Cereal": 1,
+        "Cheese": 3,
+        "Bread": 4
+    },
+    {
+        "Meat": 2,
+        "Coke": 4,
+        "Cereal": 1,
+        "Fish": 5,
+        "Milk": 1
+    },
+    {
+        "Fish": 1,
+        "Cereal": 5,
+        "Cream": 4,
+        "Cheese": 5,
+        "Coke": 4
+    },
+    {
+        "Cereal": 5,
+        "Meat": 1,
+        "Fish": 2,
+        "Milk": 5,
+        "Cheese": 2
+    },
+    {
+        "Cheese": 1,
+        "Fish": 3,
+        "Cream": 1,
+        "Bread": 2,
+        "Coke": 3
+    },
+    {
+        "Coke": 5,
+        "Fish": 3,
+        "Bread": 2,
+        "Cheese": 5,
+        "Meat": 4
+    },
+    {
+        "Fish": 1,
+        "Milk": 3,
+        "Coke": 2,
+        "Meat": 5,
+        "Cheese": 3
+    },
+    {
+        "Milk": 4,
+        "Bread": 2,
+        "Meat": 1,
+        "Coke": 2,
+        "Cereal": 5
+    },
+    {
+        "Meat": 4,
+        "Fish": 1,
+        "Cream": 4,
+        "Coke": 5,
+        "Cereal": 4
+    },
+    {
+        "Milk": 2,
+        "Cheese": 3,
+        "Coke": 4,
+        "Cream": 3,
+        "Meat": 2
+    },
+    {
+        "Cheese": 4,
+        "Cereal": 2,
+        "Bread": 4,
+        "Cream": 2,
+        "Meat": 1
+    },
+    {
+        "Cereal": 1,
+        "Cheese": 5,
+        "Meat": 2,
+        "Milk": 5,
+        "Coke": 3
+    },
+    {
+        "Milk": 5,
+        "Coke": 2,
+        "Fish": 3,
+        "Bread": 4,
+        "Cheese": 1
+    },
+    {
+        "Milk": 2,
+        "Cream": 5,
+        "Cheese": 2,
+        "Coke": 4,
+        "Meat": 3
+    },
+    {
+        "Milk": 3,
+        "Bread": 2,
+        "Cream": 4,
+        "Cereal": 2,
+        "Coke": 5
+    },
+    {
+        "Cereal": 4,
+        "Milk": 1,
+        "Cheese": 5,
+        "Cream": 2,
+        "Bread": 3
+    },
+    {
+        "Cereal": 3,
+        "Fish": 4,
+        "Cream": 1,
+        "Meat": 2,
+        "Milk": 4
+    },
+    {
+        "Bread": 1,
+        "Coke": 2,
+        "Cream": 5,
+        "Fish": 1,
+        "Meat": 4
+    },
+    {
+        "Milk": 3,
+        "Cheese": 2,
+        "Cream": 3,
+        "Bread": 2,
+        "Cereal": 4
+    },
+    {
+        "Cereal": 5,
+        "Fish": 4,
+        "Cheese": 3,
+        "Bread": 1,
+        "Milk": 4
+    },
+    {
+        "Cereal": 2,
+        "Coke": 3,
+        "Cheese": 1,
+        "Meat": 4,
+        "Milk": 2
+    },
+    {
+        "Coke": 4,
+        "Milk": 1,
+        "Cream": 3,
+        "Cheese": 1,
+        "Cereal": 2
+    },
+    {
+        "Fish": 3,
+        "Bread": 1,
+        "Milk": 2,
+        "Cream": 1,
+        "Meat": 3
+    },
+    {
+        "Bread": 3,
+        "Fish": 1,
+        "Milk": 3,
+        "Meat": 1,
+        "Cream": 4
+    },
+    {
+        "Cheese": 5,
+        "Milk": 1,
+        "Meat": 5,
+        "Bread": 2,
+        "Cream": 5
+    },
+    {
+        "Cheese": 4,
+        "Milk": 1,
+        "Coke": 2,
+        "Cream": 4,
+        "Meat": 5
+    },
+    {
+        "Fish": 5,
+        "Coke": 3,
+        "Cream": 2,
+        "Meat": 4,
+        "Milk": 2
+    },
+    {
+        "Coke": 4,
+        "Fish": 2,
+        "Bread": 1,
+        "Cream": 3,
+        "Cereal": 2
+    },
+    {
+        "Milk": 2,
+        "Fish": 4,
+        "Cream": 3,
+        "Meat": 4,
+        "Cheese": 1
+    },
+    {
+        "Cheese": 5,
+        "Milk": 2,
+        "Coke": 1,
+        "Cereal": 2,
+        "Meat": 5
+    },
+    {
+        "Milk": 1,
+        "Fish": 5,
+        "Coke": 1,
+        "Cereal": 5,
+        "Bread": 1
+    },
+    {
+        "Cream": 3,
+        "Milk": 5,
+        "Meat": 3,
+        "Coke": 2,
+        "Cereal": 1
+    },
+    {
+        "Fish": 4,
+        "Bread": 1,
+        "Milk": 5,
+        "Cereal": 3,
+        "Meat": 2
+    },
+    {
+        "Bread": 1,
+        "Cereal": 4,
+        "Cheese": 1,
+        "Milk": 3,
+        "Meat": 2
+    },
+    {
+        "Meat": 4,
+        "Cereal": 2,
+        "Cream": 5,
+        "Milk": 1,
+        "Bread": 3
+    },
+    {
+        "Meat": 3,
+        "Cheese": 4,
+        "Milk": 5,
+        "Fish": 3,
+        "Coke": 2
+    },
+    {
+        "Coke": 1,
+        "Bread": 5,
+        "Cereal": 3,
+        "Meat": 4,
+        "Cream": 2
+    },
+    {
+        "Bread": 5,
+        "Cream": 4,
+        "Fish": 2,
+        "Coke": 1,
+        "Meat": 4
+    },
+    {
+        "Fish": 3,
+        "Cream": 2,
+        "Bread": 3,
+        "Cereal": 5,
+        "Meat": 4
+    },
+    {
+        "Meat": 1,
+        "Cheese": 3,
+        "Milk": 2,
+        "Bread": 4,
+        "Cereal": 5
+    },
+    {
+        "Cheese": 3,
+        "Fish": 1,
+        "Cereal": 4,
+        "Cream": 3,
+        "Milk": 2
+    }
+]

@@ -1,0 +1,36 @@
+现在的bug源于
+<div class="right">
+    <h3>Cart</h3>
+    <div class="items-container">
+        <div class="item-names">
+            <?php foreach ($current_customer_items as $item => $price): ?>
+                <div><?php echo $item; ?>: $<?php echo $price; ?></div>
+            <?php endforeach; ?>
+        </div>
+        <div class="sliders">
+            <?php foreach ($current_customer_items as $item => $price): ?>
+                <div>
+                    <input type="range" id="item-<?php echo $item; ?>" min="0" max="10" step="0.1" value="0">
+                </div>
+            <?php endforeach; ?>
+        </div>
+        <div class="slider-values">
+            <?php foreach ($current_customer_items as $item => $price): ?>
+                <div id="value-<?php echo $item; ?>">0</div>
+            <?php endforeach; ?>
+        </div>
+    </div>
+    <div class="submit">
+        <button id="submit-cart" disabled>Submit Cart</button>
+    </div>
+</div>
+
+中
+<div class="item-names">
+    <?php foreach ($current_customer_items as $item => $price): ?>
+        <div><?php echo $item; ?>: $<?php echo $price; ?></div>
+    <?php endforeach; ?>
+</div>
+
+在更新新客户的时候，我需要删掉里面所有的东西，然后将新商品放进去
+并且 sliders 和 slider-values 的 id 与商品名称绑定，导致新的商品进来不能正确匹配
