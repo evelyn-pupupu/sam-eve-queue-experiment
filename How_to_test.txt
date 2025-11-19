@@ -1,1 +1,56 @@
 
+Logic of the Codebase
+
+1. .php files contain all executable logic for the experiment (arrival, service, queueing, UI rendering, etc.).
+2. .json files only store pre-generated data (arrival time list, service time list, price list, customer items).
+3. Whole structure: "generate_sequences.php" produces the arrival-time list and service-time list --> writes them into JSON files --> these JSONs are loaded by the experiment PHP pages.
+
+How to Modify the Code
+
+1. Modify directly in GitHub.
+2. download the code, edit locally in any text editor (Notepad, VS Code, etc.).
+3. The speed-up logic (arrival-time and service-time generation) is located in
+src/generate_sequences.php.
+4. The final experiment versions are:
+        "parallelQueue_formal_speed_up.php"
+        "pooledQueue_formal_speed_up.php"
+These two experiment files load the sped-up JSON files:
+         "config/arrival_times_speed_up.json"
+         "config/service_times_speed_up.json"
+
+How to Test Locally (without the server)
+1. Download this GitHub repository
+Click “Code → Download ZIP”. Unzip to any folder.
+2. Install PHP
+Download from:
+https://windows.php.net/download/
+(Choose the latest Thread Safe x64 ZIP → extract it.)
+
+3. Start a local PHP server
+Open Command Prompt, then run:
+cd C:\Users\z5282586\Downloads\bizLab_sam_project-main
+(Change this path to your extracted code folder.)
+
+Then start PHP:
+
+C:\Users\z5282586\Downloads\php-8.4.x-Win32-vs17-x64\php.exe -S localhost:8000 -t C:\Users\z5282586\Downloads\bizLab_sam_project-main
+(Change paths to your PHP folder and your project folder.)
+
+If successful, Command Prompt will show:
+Development Server (http://localhost:8000) started
+
+4. Run sequence generation
+Open a browser and go to:
+http://localhost:8000/src/generate_sequences.php
+
+If it prints:
+“Random sequences have been generated and saved to the config directory.”
+then the .json files have been updated successfully.
+
+5. Test the experiment
+Now open:
+http://localhost:8000/src/pooledQueue_formal_speed_up.php
+or
+http://localhost:8000/src/parallelQueue_formal_speed_up.php
+
+Both pages will load using the newly generated arrival/service time lists.
