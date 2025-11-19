@@ -6,7 +6,7 @@ $configDir = __DIR__ . '/../config/';
 $experiment_duration = 600;
 
 // Generating customer arrival time intervals (Poisson process)
-$lambda = 4.5; // The average inter-arrival time is 5.5 seconds
+$lambda = 5; // The average inter-arrival time is 5.5 seconds
 $arrival_times = [];
 $current_time = 0;
 
@@ -26,7 +26,7 @@ $num_customers = count($arrival_times) + 10;
 $service_times = [];
 for ($i = 0; $i < $num_customers; $i++) {
     // $service_time = 10 + (-log(1.0 - mt_rand() / mt_getrandmax()) * 10);
-    $service_time = 10 + (-log(1.0 - mt_rand() / mt_getrandmax()) * 8);
+    $service_time = 10 + (-log(1.0 - mt_rand() / mt_getrandmax()) * 10);
     $service_times[] = $service_time;
 }
 
